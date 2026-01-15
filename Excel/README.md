@@ -1,1 +1,1 @@
-"This folder contains my Excel projects.
+"This folder contains my Excel projects."
